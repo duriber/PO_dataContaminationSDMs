@@ -6,7 +6,7 @@ Repo contains both R and slurm code to do so, and the required structure to be r
 Results are stored in the '/out' folder.
 
 After running the R script 'analysis_HPCBatch.R' as a batch job using 'batch_surveysinPOdata.slurm', the workflow continues by merging the 
-output files into compilatory csvs with either predictions and performance metrics, or into coefficient estimates. 
+output files into compilatory csvs with either predictions & performance metrics, or for coefficient estimates. 
 To merge individual outputs, use 'merging_csvs.R' script in your local machine.
 
 Finally, to recreate the figures, the R script 'Figures.R' has been provided.
