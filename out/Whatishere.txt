@@ -1,0 +1,5 @@
+The "/out" folder should contain three files in the project folder:
+
+1. 'results.csv' is an empty .csv where the workflow will store predictions and performance metrics
+2. 'coefficients.csv' is the same but for covariates coefficient estimates of integrated SDMs
+3. 'coefficients_PPM.csv' the same but for covariates coefficient estimates of conventional SDMs (PPMs)
