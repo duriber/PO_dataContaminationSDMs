@@ -1,0 +1,1 @@
+This folder contains the raster files used to simulate and analyse the data from the experiment. It should be called 'Tas_env.tif'.
